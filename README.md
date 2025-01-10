@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sai kiran!<br>💻   Aspiring Full Stack Developer  <br>🎓 3rd-year CS student & Google Career Launchpad Participant<br>🌟 Building projects in React, Spring Boot, & Python<br>📚 Exploring AI, automation, & data-driven solutions<br>🚀 Open to collaboration & learning!
+👋 Hi, I’m Sai kiran!<br>💻   Aspiring Full Stack Developer  <br>🎓 3rd-year Computer Science Student <br>🌟 Building projects in React, Spring Boot, & Python<br>📚 Exploring AI, automation, & data-driven solutions<br>🚀 Open to collaboration & learning!
 
 
 ## 🌐 Socials:
